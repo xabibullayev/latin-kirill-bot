@@ -1,0 +1,17 @@
+{
+  "name": "lotin-kirill",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
